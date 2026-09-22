@@ -6,6 +6,7 @@ import { getContent } from "@/lib/content";
 import { Monogram, telHref } from "@/components/identity";
 import { SiteHeader } from "./site-header";
 import "./globals.css";
+import { generateJsonLd } from "@/lib/seo";
 
 const plex = IBM_Plex_Sans({
   subsets: ["latin", "latin-ext"],
@@ -16,10 +17,27 @@ const plex = IBM_Plex_Sans({
 
 export function generateMetadata(): Metadata {
   const c = getContent();
+  const seo = c.seo;
+  const siteUrl = seo?.siteUrl || "";
   return {
     title: { default: `${c.site.name} - ${c.site.title}`, template: `%s | ${c.site.name}` },
-    description: c.home.description,
-    robots: { index: false, follow: false },
+    description: seo?.description || c.home.description,
+    robots: { index: true, follow: true },
+    ...(siteUrl && {
+      metadataBase: new URL(siteUrl),
+      alternates: { canonical: siteUrl },
+      openGraph: {
+        type: "website",
+        title: `${c.site.name} - ${c.site.title}`,
+        description: seo?.description || c.home.description,
+        url: siteUrl,
+        siteName: c.site.name,
+      },
+    }),
+    other: {
+      "geo.region": "TR",
+      ...(seo?.location && { "geo.placename": seo.location }),
+    },
   };
 }
 
@@ -44,6 +62,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body className="flex min-h-screen flex-col bg-bg text-fg antialiased">
+        {generateJsonLd().map((schema, i) => (
+          <script
+            key={i}
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+          />
+        ))}
         {/* Bilgi şeridi */}
         <div className="hidden bg-primary text-[13px] text-white/85 sm:block">
           <div className="mx-auto flex h-10 max-w-6xl items-center justify-between gap-6 px-5 sm:px-6 lg:px-8">
