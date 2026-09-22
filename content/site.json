@@ -1,179 +1,190 @@
 {
   "site": {
-    "name": "Ad Soyad",
-    "title": "Klinik Psikolog",
-    "email": "iletisim@klinik.com",
-    "phone": "+90 212 XXX XX XX",
-    "address": "Levent Plaza, Kat: 8\nBeşiktaş, İstanbul",
-    "copyright": "Tüm hakları saklıdır."
+    "name": "Klinik Psikolog",
+    "title": "alnfsl Psikolog",
+    "email": "futurescientistai@gmail.com",
+    "phone": "+905312775292",
+    "address": "Levent, İstanbul",
+    "copyright": "Tüm hakları saklıdır.",
+    "hours": "pazartesi-sali, 15:00-29:00"
   },
   "home": {
     "badge": "Kanıta dayalı klinik psikoloji",
-    "headline": "Yapılandırılmış terapi,",
-    "headlineAccent": "ölçülebilir ilerleme.",
-    "headlineSuffix": "",
-    "description": "Uluslararası standartlarda yapılandırılmış Bilişsel Davranışçı Terapi, EMDR ve Şema Terapi protokolleriyle ölçülebilir hedeflere dayanan bir terapi süreci.",
-    "cta": "Randevu talebi oluştur",
+    "headline": "Yapılandırılmış terapi, Klinik Psikolog",
+    "headlineAccent": "ölçülebilir ilerleme.Klinik Psikolog",
+    "description": "Uluslararası standartlarda yapılandırılmış Bilişsel Davranışçı Terapi, EMDR ve Şema Terapi protokolleriyle ölçülebilir hedeflere dayanan bir terapi süreci.Klinik Psikolog",
+    "cta": "Randevual",
     "ctaSecondary": "Klinik profil",
     "credentials": [
-      {
-        "label": "Türk Psikologlar Derneği üyesi",
-        "value": ""
-      },
-      {
-        "label": "KDTD akreditasyonu",
-        "value": ""
-      },
-      {
-        "label": "EMDR Europe onaylı uygulayıcı",
-        "value": ""
-      },
-      {
-        "label": "ISST sertifikası",
-        "value": ""
-      }
-    ]
+      "Türk Psikologlar Derneği üyesi",
+      "KDTD akreditasyonu",
+      "EMDR Europe onaylı uygulayıcı",
+      "ISST sertifikası"
+    ],
+    "quote": "Klinik Psikolog",
+    "quoteAuthor": "Klinik Psikolog"
   },
   "metrics": [
     {
-      "val": "12+",
+      "val": "1",
       "unit": "Yıl",
       "label": "Klinik Deneyim"
     },
     {
-      "val": "4500+",
+      "val": "10",
       "unit": "",
-      "label": "Tamamlanmış Seans"
+      "label": "Klinik Psikolog"
     },
     {
-      "val": "8",
+      "val": "80",
       "unit": "+",
-      "label": "Akademik Yayın"
-    },
-    {
-      "val": "%100",
-      "unit": "",
-      "label": "Etik Taahhüt"
+      "label": "Klinik Psikolog"
     }
   ],
   "services": [
     {
-      "title": "Bireysel Psikoterapi",
-      "desc": "Stres, kaygı, depresyon, yaşam değişimleri ve anlam arayışında bireysel farkındalık yolculuğu.",
-      "duration": "50 dk",
-      "method": "CBT / Şema Terapi"
+      "desc": "İlişki içi çatışmalar, iletişim problemleri ve bağlılık krizleri üzerine çiftler arası iyileşme.Klinik Psikolog",
+      "title": "Çift  Terapisi",
+      "method": "Klinik Psikolog",
+      "duration": "5 dk"
     },
     {
-      "title": "Çift & İlişki Terapisi",
-      "desc": "İlişki içi çatışmalar, iletişim problemleri ve bağlılık krizleri üzerine çiftler arası iyileşme.",
-      "duration": "75 dk",
-      "method": "Gottman / Sistemik"
+      "desc": "Zorlayıcı geçmiş deneyimlerin nörolojik düzeyde duyarsızlaştırılıp yeniden işlenmesi.Klinik Psikolog",
+      "title": "EMDR Travma TerapisiKlinik Psikolog",
+      "method": "Klinik Psikolog",
+      "duration": "10 dk"
     },
     {
-      "title": "EMDR Travma Terapisi",
-      "desc": "Zorlayıcı geçmiş deneyimlerin nörolojik düzeyde duyarsızlaştırılıp yeniden işlenmesi.",
-      "duration": "60 dk",
-      "method": "EMDR Protokolü"
+      "desc": "Klinik Psikolog",
+      "title": "Klinik Psikolog",
+      "method": "Klinik Psikolog",
+      "duration": "100Dk"
     }
   ],
   "about": {
-    "title": "Klinik & Akademik Profil",
-    "intro": "İstanbul Üniversitesi Psikoloji Bölümü'nden birincilik derecesiyle mezun oldu. Doktora derecesini tamamlayarak kaygı bozuklukları ve travma üzerine uluslararası klinik araştırmalarda yer aldı.\n\nUyguladığı terapiler tamamen kanıta dayalı bilimsel protokollere dayanmaktadır. Klinik çalışmalarının yanı sıra üniversitede dersler vermekte ve araştırmalar yönetmektedir.",
-    "calloutTitle": "Uygulanan Yaklaşımlar",
-    "calloutText": "Tüm psikolojik değerlendirmeler ve klinik seanslar, Amerikan Psikoloji Birliği (APA) ve Türk Psikologlar Derneği (TPD) etik standartlarına uygun olarak yürütülür.",
+    "title": "Klinik Psikolog",
+    "intro": "Klinik Psikolog",
+    "introSecond": "Klinik Psikolog",
+    "calloutTitle": "Etik ve mesleki çerçeve",
+    "calloutText": "Klinik Psikolog",
+    "organizations": [
+      "Klinik Psikolog",
+      "Klinik PsikologKlinik Psikolog",
+      "Klinik PsikologKlinik PsikologKlinik Psikolog"
+    ],
     "credentials": [
       {
-        "year": "2014",
-        "title": "İstanbul Üniversitesi - Psikoloji Lisans",
-        "detail": "Birincilik derecesiyle mezuniyet"
+        "year": "2010",
+        "title": "Klinik Psikolog",
+        "detail": "Klinik Psikolog"
       },
       {
-        "year": "2016",
-        "title": "Klinik Psikoloji Yüksek Lisansı",
-        "detail": "Kaygı bozuklukları tez çalışması"
+        "year": "2020",
+        "title": "Klinik Psikolog",
+        "detail": "Klinik Psikolog"
       },
       {
-        "year": "2018",
-        "title": "EMDR Avrupa Akredite Uygulayıcı",
-        "detail": "EMDR Europe onaylı sertifika"
+        "year": "2220",
+        "title": "Klinik Psikolog",
+        "detail": "Klinik Psikolog"
       }
-    ],
-    "organizations": [
-      "Türk Psikologlar Derneği",
-      "Kognitif ve Davranış Terapileri Derneği",
-      "EMDR Türkiye Derneği"
     ]
   },
   "approach": {
-    "title": "Klinik yöntemler ve bilimsel çerçeve",
-    "intro": "",
-    "methods": [
+    "title": "Klinik yöntemler ve bilimsel çerçeveKlinik Psikolog",
+    "intro": "Terapide kullanılan her yöntem, etkinliği bilimsel araştırmalarla gösterilmiş protokollere dayanır. Süreç şeffaftır: hedefler baştan konuşulur, ilerleme düzenli olarak birlikte değerlendirilir.Klinik Psikolog",
+    "principles": [
       {
-        "title": "CBT",
-        "full": "Bilişsel Davranışçı Terapi",
-        "desc": "Düşünce-duygu-davranış zincirini kırarak kanıt temelli bilişsel yeniden yapılandırma."
+        "desc": "Tam gizliliğe ve şefkate dayalı bir terapötik alan.Klinik Psikolog",
+        "title": "Güvenli AlanKlinik Psikolog"
       },
       {
-        "title": "EMDR",
-        "full": "Göz Hareketleriyle Duyarsızlaştırma",
-        "desc": "Sistematik göz hareketleriyle travmatik anıların nörobiyolojik düzeyde çözümlenmesi."
+        "desc": "İhtiyaçlarınıza, hızınıza ve hedeflerinize özel planlama.Klinik Psikolog",
+        "title": "Kişiye Özel SüreçKlinik Psikolog"
       },
       {
-        "title": "ŞEMA",
-        "full": "Şema Terapi Modelleri",
-        "desc": "Erken çocukluk dönemi uyumsuz kalıpların ve temel şemaların tespiti ve dönüşümü."
+        "desc": "İki uzmanın omuz omuza çalıştığı bir ortaklık.Klinik Psikolog",
+        "title": "Aktif İş BirliğiKlinik Psikolog"
       }
     ],
-    "principles": []
+    "methods": [
+      {
+        "desc": "Zorlayıcı anıların, iki yönlü uyarım eşliğinde sinir sisteminin taşıyabileceği bir biçimde yeniden işlenmesi.Klinik Psikolog",
+        "full": "Göz Hareketleriyle Duyarsızlaştırma ve Yeniden İşleme",
+        "title": "EMDRKlinik Psikolog"
+      },
+      {
+        "desc": "Erken dönemde oluşan ve bugün hâlâ tekrarlayan kalıpların belirlenmesi ve sağlıklı alternatiflerle değiştirilmesi.Klinik Psikolog",
+        "full": "Şema Terapi",
+        "title": "ŞemaKlinik Psikolog"
+      }
+    ]
   },
   "articles": [
     {
+      "date": "28 Mayıs 2026",
       "title": "Kaygı Bozukluklarında Bilişsel Yeniden Yapılandırma",
       "category": "Klinik",
-      "readTime": "8 dk",
-      "date": "28 Mayıs 2026"
+      "readTime": "8 dk"
     },
     {
+      "date": "24 Temmuz 2026",
       "title": "Çocuklarda Duygusal Güvenlik Alanı Oluşturmak",
       "category": "Çocuk-Ergen",
-      "readTime": "6 dk",
-      "date": "24 Temmuz 2026"
+      "readTime": "6 dk"
     },
     {
+      "date": "10 Nisan 2026",
       "title": "EMDR ile Travma Sonrası Büyüme",
       "category": "Travma",
-      "readTime": "10 dk",
-      "date": "10 Nisan 2026"
+      "readTime": "10 dk"
     }
   ],
   "faq": [
     {
-      "q": "İlk terapi seansında ne yapılıyor?",
-      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır."
+      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır.Klinik Psikolog",
+      "q": "İlk terapi seansında ne yapılıyor?Klinik Psikolog"
     },
     {
-      "q": "Terapi seansları ne sıklıkla yapılmalı?",
-      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir."
+      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir.Klinik Psikolog",
+      "q": "Terapi seansları ne sıklıkla yapılmalı?Klinik Psikolog"
     },
     {
-      "q": "Seansların gizliliği nasıl korunur?",
-      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır."
+      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır.Klinik Psikolog",
+      "q": "Seansların gizliliği nasıl korunur?Klinik Psikolog"
+    },
+    {
+      "a": "Klinik Psikolog",
+      "q": "Klinik Psikolog"
+    },
+    {
+      "a": "Klinik PsikologKlinik PsikologKlinik Psikolog",
+      "q": "Klinik PsikologKlinik Psikolog"
     }
   ],
   "contact": {
-    "title": "Klinik İletişim",
-    "intro": "Seans planlamaları ve klinik sorularınız için iletişime geçebilirsiniz.",
-    "clinicAddress": "Levent Plaza, Kat: 8\nBeşiktaş, İstanbul",
-    "workingHours": {
-      "weekdays": "Pzt - Cum: 09:00 - 18:00",
-      "saturday": "Cmt: 10:00 - 15:00",
-      "sunday": "Pazar: Kapalı"
-    },
-    "formTitle": "Randevu talep formu",
-    "formName": "Ad ve Soyad",
+    "title": "İletişim",
+    "intro": "Randevu talepleriniz ve süreçle ilgili sorularınız için formu doldurabilir ya da doğrudan iletişime geçebilirsiniz.Klinik Psikolog",
+    "formName": "Ad ve soyad",
     "formEmail": "E-posta",
-    "formReason": "Başvuru Nedeni",
     "formMessage": "Kısaca paylaşmak istedikleriniz (isteğe bağlı)",
-    "formSubmit": "Talebi gönder"
+    "formSubmit": "Talebi gönder",
+    "clinicAddress": "Levent Plaza, Kat: 8\nBeşiktaş, İstanbul",
+    "workingHours": "Pzt - Cum: 09:00 - 18:00, Cmt: 10:00 - 15:00, Pazar: Kapalı",
+    "formTitle": "Randevu talep formu",
+    "formReason": "Başvuru nedeni"
+  },
+  "seo": {
+    "jobTitle": "alnfsl Psikolog",
+    "description": "Klinik Psikolog, Levent, İstanbul merkezli alnfsl psikolog.",
+    "specialties": [],
+    "credentials": [
+      "Klinik Psikolog (2010)",
+      "Klinik Psikolog (2020)",
+      "Klinik Psikolog (2220)"
+    ],
+    "location": "Levent, İstanbul",
+    "socialLinks": [],
+    "openingHours": "Mo-Fr 09:00-18:00"
   }
 }
