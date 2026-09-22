@@ -1,5 +1,7 @@
 "use client";
 
+import { useContactForm } from "@/lib/use-contact-form";
+
 import { useState } from "react";
 import { CircleCheck, Clock, ExternalLink, LifeBuoy, Mail, MapPin, Phone } from "lucide-react";
 import type { SiteContent } from "@/lib/content";
